@@ -4,7 +4,9 @@ Handheld Pong console built around a Raspberry Pi Pico: my own 2-layer PCB, Li-i
 
 I did the whole chain myself: component selection, schematic and layout in CircuitMaker, ordering the boards at JLCPCB, soldering, and the firmware in C with the Pico SDK.
 
-![PCB](images/pcb-photo.jpg)
+![Pico Pong](images/assembled-front.jpg)
+
+More photos and videos of the build on the [project page](https://guillaumeborget.github.io/pico-pong.html).
 
 ## Hardware
 
