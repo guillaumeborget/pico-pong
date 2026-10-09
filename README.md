@@ -2,7 +2,7 @@
 
 Handheld Pong console built around a Raspberry Pi Pico: my own 2-layer PCB, Li-ion battery with USB charging, a small colour OLED, two buttons and a piezo buzzer.
 
-I did the whole chain myself: component selection, schematic and layout in CircuitMaker, ordering the boards at JLCPCB, soldering, and the firmware in C with the Pico SDK.
+I did the whole chain myself: component selection, schematic and layout in Altium CircuitMaker, ordering the boards at JLCPCB, soldering, and the firmware in C with the Pico SDK.
 
 ![Pico Pong](images/assembled-front.jpg)
 
