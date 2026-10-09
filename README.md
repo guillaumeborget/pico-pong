@@ -64,7 +64,7 @@ Then copy `build/pong.uf2` on the Pico in BOOTSEL mode.
 
 ## Known limitations / next steps
 
-- no debouncing on the buttons yet (polled every frame)
+- create more 2-button games
 - the score is counted but not displayed
 - sleep mode to save battery
 
